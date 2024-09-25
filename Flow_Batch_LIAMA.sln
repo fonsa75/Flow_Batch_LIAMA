@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Flow_Batch_LIAMA", "Flow_Batch_LIAMA.vbproj", "{B912DE8D-42DF-4311-8A27-A5E7059458E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B912DE8D-42DF-4311-8A27-A5E7059458E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B912DE8D-42DF-4311-8A27-A5E7059458E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B912DE8D-42DF-4311-8A27-A5E7059458E5}.Debug|x86.ActiveCfg = Debug|x86
+		{B912DE8D-42DF-4311-8A27-A5E7059458E5}.Debug|x86.Build.0 = Debug|x86
+		{B912DE8D-42DF-4311-8A27-A5E7059458E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B912DE8D-42DF-4311-8A27-A5E7059458E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B912DE8D-42DF-4311-8A27-A5E7059458E5}.Release|x86.ActiveCfg = Release|x86
+		{B912DE8D-42DF-4311-8A27-A5E7059458E5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD40F62-D554-4A0E-A948-E8113DEFA37F}
+	EndGlobalSection
+EndGlobal
